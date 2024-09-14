@@ -65,7 +65,6 @@ I am **Sai Harsha Varma Sangaraju** and welcome to my GitHub profile!
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h3 align="center">Thanks for Visiting!😇</h3>
 </div>
 
 ### Stats 📈
@@ -77,3 +76,5 @@ I am **Sai Harsha Varma Sangaraju** and welcome to my GitHub profile!
 <a href="https://www.saiharshavarma.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&logo=data:null" /></a>
 <a href="https://www.linkedin.com/in/saiharshavarma" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/harsha_28_/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+<h3 align="center">Thanks for Visiting!😇</h3>
