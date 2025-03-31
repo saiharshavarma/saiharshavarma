@@ -67,6 +67,8 @@ I am **Sai Harsha Varma Sangaraju** and welcome to my GitHub profile!
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 ### Stats 📈
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saiharshavarma&theme=dark)
