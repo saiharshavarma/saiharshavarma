@@ -67,8 +67,6 @@ I am **Sai Harsha Varma Sangaraju** and welcome to my GitHub profile!
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
 ### Stats 📈
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saiharshavarma&theme=dark)
@@ -78,5 +76,7 @@ I am **Sai Harsha Varma Sangaraju** and welcome to my GitHub profile!
 <a href="https://www.saiharshavarma.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&logo=data:null" /></a>
 <a href="https://www.linkedin.com/in/sai-harsha-varma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/harsha_28_/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=saiharshavarma&color=blue)
 
 <h3 align="center">Thanks for Visiting!😇</h3>
